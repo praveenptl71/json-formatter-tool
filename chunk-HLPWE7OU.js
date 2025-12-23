@@ -1,1 +1,0 @@
-var e={production:!0,ADS_V1:{key:"32375dc58e63b66e66b14c955cfe00c5",width:160,height:300},ADS_V2:{key:"e4f81ee70d6afc96b7d4a6d0d3054e41",width:160,height:600},ADS_H1:{key:"1fba86983bb9a3503d43816cc1b4f905",width:468,height:60},ADS_H2:{key:"94670fe96508d347c7e268cb9b411c3e",width:320,height:50}};export{e as a};
