@@ -1,0 +1,1 @@
+import{Cb as n,Db as o,Tb as c,gb as t}from"./chunk-UQCTGJD2.js";import"./chunk-TSRGIXR5.js";var p=class e{static \u0275fac=function(s){return new(s||e)};static \u0275cmp=t({type:e,selectors:[["app-scss-css"]],decls:2,vars:0,template:function(s,i){s&1&&(n(0,"p"),c(1,"SCSS to CSS Converter Works!"),o())},encapsulation:2})};export{p as ScssCssComponent};
